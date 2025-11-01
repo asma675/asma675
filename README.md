@@ -50,7 +50,7 @@ Student Records Portal	SQL, HTML/CSS	secure academic records management portal
 
 # 🏆 Achievements
 
-Finalist - GDG Frontend Hackathon
+Finalist - GDG Frontend Challenge 
 
 Built AI Chrome Extension for Google Built-in AI Challenge
 
