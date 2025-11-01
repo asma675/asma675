@@ -2,7 +2,7 @@
 
 Software Engineer | Cloud Computing | Full-Stack Development
 
-I build scalable, user-centric web + mobile applications using modern frameworks and cloud platforms. I love creating products that solve real problems — from food sharing apps to AI-powered browser extensions.
+I build scalable, user-centric web + mobile applications using modern frameworks and cloud platforms. I love creating products that solve real problems - from food sharing apps to AI-powered browser extensions.
 
 # 🔧 Technical Skills
 Category Skills
@@ -23,7 +23,7 @@ Student Records Portal	SQL, HTML/CSS	secure academic records management portal
 
 # 🏆 Achievements
 
-Finalist — GDG Frontend Hackathon
+Finalist - GDG Frontend Hackathon
 
 Built AI Chrome Extension for Google Built-in AI Challenge
 
