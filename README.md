@@ -36,6 +36,7 @@ Recognized for analytical troubleshooting performance in IT support
 Bachelor of Science in Computer Science (Co-op)
 Cloud Computing Specialization
 Sheridan College, Oakville - Expected April 2027
+
 Member: Google Developer Club, MSA
 
 # 🌐 Connect with Me
