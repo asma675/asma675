@@ -66,7 +66,7 @@ Sheridan College, Oakville - Expected April 2027
 
 Member: Google Developer Club, MSA
 
-# 🌐 Connect with me for hiring opportunities, project collaboration, consulting work, or any of my creative business ventures  
+# 🌐 Connect with me  
 
 [![GitHub](https://img.shields.io/badge/GitHub-asma675-111?style=for-the-badge&logo=github)](https://github.com/asma675)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-asma--ahmed67-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/asma-ahmed67/)
