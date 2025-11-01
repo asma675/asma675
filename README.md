@@ -66,10 +66,12 @@ Sheridan College, Oakville - Expected April 2027
 
 Member: Google Developer Club, MSA
 
-# 🌐 Connect with Me
+# 🌐 If you’d like to connect for hiring opportunities, project collaboration, consulting work, or any of my creative business ventures - feel free to reach out through the links below. 
 
-GitHub: https://github.com/asma675
+[![GitHub](https://img.shields.io/badge/GitHub-asma675-111?style=for-the-badge&logo=github)](https://github.com/asma675)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-asma--ahmed67-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/asma-ahmed67/)
 
-LinkedIn: https://www.linkedin.com/in/asma-ahmed67
-
-Instagram: https://www.instagram.com/asma.a15__/
+### Instagram Profiles
+[![Personal](https://img.shields.io/badge/Personal-asma.a15__-E4405F?style=flat&logo=instagram)](https://www.instagram.com/asma.a15__/)
+[![Modelling](https://img.shields.io/badge/Modelling-asma.ahmed.model-E4405F?style=flat&logo=instagram)](https://www.instagram.com/asma.ahmed.model/)
+[![Henna](https://img.shields.io/badge/Henna.h.earted-Art-E4405F?style=flat&logo=instagram)](https://www.instagram.com/henna.hearted/)
