@@ -77,4 +77,4 @@ Member: Google Developer Club, MSA
 ### Instagram Profiles
 [![Personal](https://img.shields.io/badge/Personal-asma.a15__-E4405F?style=flat&logo=instagram)](https://www.instagram.com/asma.a15__/)
 [![Modelling](https://img.shields.io/badge/Modelling-asma.ahmed.model-E4405F?style=flat&logo=instagram)](https://www.instagram.com/asma.ahmed.model/)
-[![Henna](https://img.shields.io/badge/Henna.h.earted-Art-E4405F?style=flat&logo=instagram)](https://www.instagram.com/henna.hearted/)
+[![Henna](https://img.shields.io/badge/Henna.hearted-Art-E4405F?style=flat&logo=instagram)](https://www.instagram.com/henna.hearted/)
