@@ -164,7 +164,7 @@ Built and pitched an AI-powered sustainability platform focused on circular fash
 - **President — IBM Z Sheridan**
 - **President — Enactus Sheridan**
 - **4× Hackathon Award Recipient**
-- Organized the **IBM Z × UNSA Hackathon**, connecting hundreds of builders with technical professionals from IBM, Google, Microsoft, AWS, government, healthcare, and academia
+- Organized the **IBM Z × UNSA Hackathon**, connecting 500+ of builders with 95+ technical professionals from IBM, Google, Microsoft, AWS, government, healthcare, and academia
 
 ---
 
