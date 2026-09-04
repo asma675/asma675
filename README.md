@@ -1,114 +1,219 @@
-# Hi, I'm Asma 👩🏻‍💻🐿️🌹🌻
+# Hi, I'm Asma 👩🏻‍💻
 
-### Software Engineer • Computer Science @ Sheridan • Cloud • Full-Stack • AI/ML
+### Software Engineer | Computer Science – Cloud Computing @ Sheridan
 
-I’m a Computer Science student specializing in Cloud Computing with professional experience across **software engineering, backend development, cloud systems, AI/ML, enterprise IT, and public-sector technology**.
+I build software across **backend engineering, full-stack development, cloud systems, AI/ML, and distributed systems**.
 
-I currently work as a **Software Engineer at Cominfo**, and I’m also completing an **IT Helpdesk Co-op at Ornge**, supporting enterprise technology within Ontario’s air ambulance and critical care transport organization.
+I'm currently a **Software Engineer at Cominfo**, where I work on applied AI, software development, LLM systems, RAG, agentic workflows, evaluation, and production-oriented prototypes.
 
-Previously, I worked with the **Ontario Government’s Ontario Forest Research Institute**, where my role expanded into software engineering, automation, geospatial systems, machine learning, Docker, Git/GitHub, and Azure-focused deployment work.
+I'm also completing an **IT co-op at Ornge**, supporting enterprise technology, applications, dashboards, and systems behind Ontario's air ambulance and critical care transport operations.
 
-I enjoy building reliable software where **scalability, performance, automation, and real-world impact** matter.
+Previously, I worked with the **Ontario Government's Ontario Forest Research Institute**, where my role expanded into software engineering, automation, geospatial systems, machine learning, Docker, Git/GitHub, and Azure-focused deployment.
 
----
+I'm especially interested in:
 
-## 💻 What I'm Working On
-
-- Building software and applied AI solutions at **Cominfo**
-- Supporting enterprise technology, applications, dashboards, and IT systems at **Ornge**
-- Developing full-stack, backend, cloud, and AI projects
-- Exploring distributed systems, system design, DevOps, and scalable infrastructure
-- Leading technical communities through **IBM Z Sheridan** and **Enactus Sheridan**
+`Software Engineering` • `Backend Engineering` • `Cloud Computing`
+`Distributed Systems` • `System Design` • `DevOps`
+`AI/ML` • `APIs` • `Reliability Engineering`
 
 ---
 
-# 🛠️ Technical Skills
+## 🚀 Featured Engineering Projects
 
-## Languages
+### 🌙 LunaGuard — Autonomous Mission Planning & Digital Twin Platform
+**FastAPI • Next.js • Python • IBM Granite • IBM Bob • NASA APIs • Algorithms**
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+Solo full-stack project built for an IBM AI Builders Challenge.
 
-## Frameworks & Development
+- Implemented **FASTEST, LOWEST ENERGY, and SAFEST** route-planning strategies
+- Uses real NASA LRO/LOLA terrain data
+- Calculates terrain slope, roughness, hazards, and traversability
+- Implements weighted A* pathfinding and optimization
+- Built Digital Twin failure injection and automatic emergency replanning
+- Added telemetry, mission timelines, and validation workflows
+- Integrated IBM Granite for grounded mission explanations
+- Uses human-in-the-loop approval for safety-critical decisions
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-## Cloud, DevOps & Infrastructure
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+> Granite explains the decision — it does not invent the physics.
 
 ---
 
-# 🚀 Featured Projects
+### 🛡️ LLM Guardian — Enterprise AI Observability & Governance
 
-| Project | Tech | Highlights |
-|---|---|---|
-| **LunaGuard** | Python • REST APIs • Algorithms • Digital Twin | Explainable autonomous mission-planning platform using weighted A* routing, optimization strategies, failure simulation, emergency replanning, telemetry, and human-in-the-loop controls. |
-| **LegalAssist** | AI/ML • RAG • Vector Search • APIs | AI-powered legal technology platform with 10+ workflows covering intake, research, document generation, CRM, deadlines, tasks, and risk assessment. Improved retrieval relevance from 72% to 91% across 3,500+ pages and 10,000+ embeddings. |
-| **Ontario Government Wetland Platform** | R/Shiny • Python • ML • Docker • Azure | Built an end-to-end environmental decision-support application using Sentinel-2 imagery, 1,431 training samples, Random Forest classification, visualization, and automated GIS workflows. |
-| **ShareMeal** | .NET MAUI • C# • Azure • REST APIs | Social-impact application connecting food donors with nearby food banks through cloud-hosted listings and real-time updates. |
-| **PasswordStore** | Java • Spring Boot • Thymeleaf • H2 | Secure password-management application using MVC architecture and encrypted data storage. |
-| **DriveWell** | .NET MAUI • C# | Cross-platform vehicle tracking application with asynchronous data workflows for mileage and driving information. |
+**Next.js • React • TypeScript • PostgreSQL • Prisma • Gemini • Vertex AI • Datadog**
 
----
+Production-inspired platform for monitoring and securing enterprise AI systems.
 
-# 🏆 Highlights
+- Captures latency, token usage, inference cost, errors, and trace metadata
+- Detects PII exposure, hallucination risk, and AI safety violations
+- Converts AI failures into structured engineering incidents
+- Supports configurable monitoring rules and alert thresholds
+- Built operational dashboards for reliability, cost, security, and governance
+- Uses PostgreSQL + Prisma for persistent application data
+- Integrates Datadog-style observability concepts into LLM operations
 
-- 🥈 **2nd Place — IBM Bobathon 2026**
-- 🏆 **4× Hackathon Award Recipient**
-- 🏆 **MLH ElevenLabs Track Winner — DeerHacks 2026**
-- 🏅 **Top 5 Overall — Sheridan Datathon**
-- 🥈 **Top 2 — Best Use of Gemini**
-- 🥈 **2nd Place — Shark Tank Sprint**
-- 💻 **IBM Z Student Ambassador**
-- 👩🏻‍💻 **President — IBM Z Sheridan**
-- 🌱 **President — Enactus Sheridan**
-- 🏛️ Former Software / AI / GIS Intern — **Ontario Government**
+Built for the **Google Cloud × Datadog AI Partner Catalyst Hackathon**.
 
 ---
 
-# 🎓 Education
+### 🥈 IBM Bobathon AI Expense Tracker
+
+**IBM Bob • IBM watsonx.ai • Python • AI Automation**
+
+**2nd Place — IBM Bobathon 2026 | Solo Hack**
+
+Enterprise expense-management platform that:
+
+- Extracts structured expense information from PDF receipts
+- Detects duplicate submissions
+- Flags policy violations
+- Analyzes employee spending patterns
+- Produces finance-ready reports
+- Uses IBM AI tooling to automate traditionally manual workflows
+
+Built and presented at **IBM Toronto**.
+
+---
+
+### ⚖️ LegalAssist — AI Legal Workflow Platform
+
+**React • Next.js • Node.js • APIs • RAG • Vector Search • LLMs**
+
+Founder and developer of an AI-powered legal technology platform.
+
+- Built 10+ workflows across client intake, research, CRM, document generation, deadlines, tasks, and risk assessment
+- Developed document ingestion and retrieval pipelines
+- Worked with 3,500+ pages and 10,000+ vector embeddings
+- Improved retrieval relevance from **72% → 91%**
+- Built workflows around metadata, embeddings, chunking, prompting, and retrieval evaluation
+
+---
+
+### 🍽️ ShareMeal — Full-Stack Food Donation Platform
+
+**C# • .NET MAUI • REST APIs • Azure**
+
+Cross-platform application designed to connect surplus-food donors with food banks and community organizations.
+
+- Built role-specific application workflows
+- Developed reusable C# services and ViewModels
+- Implemented mobile and web interfaces
+- Integrated cloud-hosted application functionality
+- Designed around a real-world social-impact use case
+
+---
+
+### 🎓 CareerLift AI — AI Résumé Insights Platform
+
+**React • Firebase • Firestore • Node.js • Google Gemini**
+
+Built during the **Sheridan Datathon**.
+
+- Generates job-alignment scores
+- Identifies missing skills
+- Provides personalized learning recommendations
+- Uses structured LLM outputs
+- Includes a real-time user dashboard
+
+🏆 **Top 5 Overall**  
+🏆 **Top 2 Finalist — Best Use of Gemini**
+
+---
+
+## 🏛️ Professional Engineering Experience
+
+### Ontario Government — Ontario Forest Research Institute
+
+Worked across **software engineering, machine learning, GIS automation, remote sensing, and cloud-ready application development**.
+
+Highlights:
+
+- Built an end-to-end R/Shiny Wetland Classification & Analysis Platform
+- Integrated **1,431 training samples**
+- Worked across **70+ Planet Labs / Sentinel-2 datasets**
+- Containerized software with **Docker**
+- Used **Git/GitHub** for development
+- Contributed to an **Azure deployment path**
+- Automated processing of **104 TIFF files across 26 monthly groups with zero failures**
+- Developed reusable workflows processing **109,822 forest features**
+
+---
+
+## 🏆 Hackathons & Technical Achievements
+
+### 🥈 IBM Bobathon 2026
+**2nd Place — Solo Hack**
+Built an enterprise AI Expense Tracker using IBM Bob and IBM watsonx.ai.
+
+### 🏆 DeerHacks 2026 — MLH ElevenLabs Track Winner
+Built **JEE – Just Enough Emotions**, a real-time AI communication coach integrating ElevenLabs voice AI.
+
+### 🏅 Sheridan Datathon
+**Top 5 Overall • Top 2 Best Use of Gemini Finalist**
+Built CareerLift AI with React, Firebase, and Gemini.
+
+### 🥈 Shark Tank Sprint
+**2nd Place**
+Built and pitched an AI-powered sustainability platform focused on circular fashion and upcycling.
+
+---
+
+## 🌐 Technical Leadership
+
+- **IBM Z Student Ambassador**
+- **President — IBM Z Sheridan**
+- **President — Enactus Sheridan**
+- **4× Hackathon Award Recipient**
+- Organized the **IBM Z × UNSA Hackathon**, connecting hundreds of builders with technical professionals from IBM, Google, Microsoft, AWS, government, healthcare, and academia
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+`Java` `C#` `Python` `JavaScript` `TypeScript` `C++` `C` `Go` `R` `SQL`
+
+### Backend
+`FastAPI` `Node.js` `Express` `Spring Boot` `.NET` `REST APIs`
+
+### Frontend
+`React` `Next.js` `Tailwind CSS` `.NET MAUI`
+
+### Cloud & Infrastructure
+`Azure` `AWS` `Google Cloud` `Docker` `Kubernetes` `Linux`
+
+### Data & AI
+`PostgreSQL` `Firebase` `Vector Databases` `RAG`
+`LangChain` `LangGraph` `IBM Granite` `watsonx.ai`
+`Gemini` `Machine Learning`
+
+### Engineering
+`Git` `GitHub` `CI/CD` `System Design`
+`Distributed Systems` `Testing` `Observability`
+
+---
+
+## 🎓 Education
 
 ### Sheridan College
-**Honours Bachelor of Computer Science — Cloud Computing (Co-op)**
+**Honours Bachelor of Computer Science – Cloud Computing (Co-op)**
 
-Relevant areas of study:
+Relevant coursework:
 
-`Data Structures & Algorithms` • `Software Engineering` • `Cloud Computing` • `Operating Systems` • `Computer Networks` • `Databases` • `AI/ML`
+`Data Structures & Algorithms`
+`Software Engineering`
+`Operating Systems`
+`Computer Networks`
+`Databases`
+`Cloud Computing`
+`Artificial Intelligence & Machine Learning`
 
 ---
 
-# 🎯 Interests
+## 👩🏻‍💻 What I'm Looking For
 
-```text
-Software Engineering
-Backend Engineering
-Full-Stack Development
-Cloud Computing
-Distributed Systems
-DevOps
-System Design
-AI / Machine Learning
-APIs & Microservices
-Infrastructure & Reliability
+I'm pursuing internship and co-op opportunities in:
+
+**Software Engineering • Backend Engineering • Cloud Engineering • Full-Stack Development • AI Engineering • DevOps / Infrastructure**
+
+I'm particularly interested in teams building scalable systems where **software engineering fundamentals, reliability, cloud infrastructure, and real-world impact** matter.
